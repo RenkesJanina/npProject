@@ -51,7 +51,7 @@ Gallery: not static (charge from DB) </br>
 Frame: not static (charge from DB) </br>
 pop_up message: not static (charge from DB) </br>
 
-Header: semi static (just changing to welcome 'username' when logged in) </br>
+Header: semi static (just changing to welcome 'username' when logged in and up came for logout possibility) </br>
 Footer: static 
 
 
