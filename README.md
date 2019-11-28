@@ -11,6 +11,7 @@ HTML</br>
 CSS</br>
 JavaScript</br>
 PHP (OOPs)</br>
+usage of API (profile api, sunset/sunrise api (to change css in function on daytaime)</br>
 
 
 How the page will look like:
@@ -51,7 +52,7 @@ Gallery: not static (charge from DB) </br>
 Frame: not static (charge from DB) </br>
 pop_up message: not static (charge from DB) </br>
 
-Header: semi static (just changing to welcome 'username' when logged in and up came for logout possibility) </br>
+Header: semi static (displays user information and logout) </br>
 Footer: static 
 
 
