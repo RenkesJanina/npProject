@@ -43,15 +43,15 @@ DB scheme:
 
 What is static, or not?
 
-first impression: photos= not static; text=static
-Register: static
-Login: static
-Profile: not static (charge from DB)
-Gallery: not static (charge from DB)
-Frame: not static (charge from DB)
-pop_up message: not static (charge from DB)
+first impression: photos= not static; text=static </br>
+Register: static </br>
+Login: static </br>
+Profile: not static (charge from DB) </br>
+Gallery: not static (charge from DB) </br>
+Frame: not static (charge from DB) </br>
+pop_up message: not static (charge from DB) </br>
 
-Header: semi static (just changing to welcome 'username' when logged in)
+Header: semi static (just changing to welcome 'username' when logged in) </br>
 Footer: static 
 
 
