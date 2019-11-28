@@ -6,11 +6,11 @@ personal project
 Creation of a Plattform to meet new peaople.
 You can select people in the "Matching Gallery" and contact them via messages.
 
-Coded with following languages:
-HTML
-CSS
-JavaScript
-PHP (OOPs)
+Coded with following languages:</br>
+HTML</br>
+CSS</br>
+JavaScript</br>
+PHP (OOPs)</br>
 
 
 How the page will look like:
