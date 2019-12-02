@@ -27,7 +27,7 @@
                 if(strlen($pseudo) >= 8) {
                 $ins = $bdd->prepare('INSERT INTO users (Nickname, Email, User, mdp, Birthday, Gender, InterestIn, Yourself, Hobby, Photo) VALUES (?,?,?,?,?,?,?,?,?,?));
                 $ins->execute;(array($Nickname,$Email,$User, $mdp, $Birthdate, $Gender, $InterestIn, $Yourself, $Hobby, $Photo));
-                $c_msg = "<span style=');color:green;'>Account successfully created.</span>";s
+                $c_msg = "<span style=');color:green;'>Account successfully created.</span>";
                 } else {
                 $c_msg = "Error: The nick must not be longer than 8 characters";
                 }
