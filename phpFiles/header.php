@@ -7,6 +7,9 @@
     <title>Heap</title>
       <!-- add icon link -->
       <link rel="icon" href="img/logo/heap.png" type="image/icon type">
+    <?php
+    require("conn.php");
+    ?>
 </head>
 <body>
     
