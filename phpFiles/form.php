@@ -2,7 +2,7 @@
 
 <?php
  
-$bdd = new PDO('mysql:host=localhost;dbname=Profile;charset=utf8','root','!R!s251113');
+$bdd = new PDO('mysql:host=localhost;dbname=Profile;charset=utf8','root','password');
     
     $data=[
         ":Nickname" => $_POST['Nickname'],
